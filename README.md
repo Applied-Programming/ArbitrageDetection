@@ -1,1 +1,1 @@
-# ArbitrageDetection
+# Arbitrage Detection
